@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Aladin's DataDog Take-Home Assignment!"
+canonifyURLs = true
