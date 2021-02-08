@@ -14,7 +14,7 @@
 <h2>However, I still managed to learn Hugo's framework in a rather short time and am proud of that. As you can tell from the public directory or "evidence" folder in this repo, I successfully managed to complete the assingment while in Development mode, but I certainly need more practice deploying Hugo Applications.</h2>
 
   
-<h2>I definitely see the benefit in using Hugo and I believe with a bit of guidance, I can become very comfortable using it!/h2>
+<h2>I definitely see the benefit in using Hugo and I believe with a bit of guidance, I can become very comfortable using it!</h2>
   
 <h1> Thank you! </h1>
 
