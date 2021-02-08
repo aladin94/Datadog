@@ -4,7 +4,10 @@
 <h2>The URL for the project: http://aladindatadog.surge.sh/ </h2>
 <h2>I tried desperately to deploy the application using AWS S3 buckets or even AWS Amplify, but I underestimated HUGO's complexities and rules when it comes to deploying to Production. AWS Link: https://main.d3w349jo24gbjn.amplifyapp.com/</h2>
 
+
 <h2>For some reason, the SCSS wasn't being applied when using AWS. Rather than asking for an extension to the submission deadline, I decided to deploy it using another service instead of wasting any of your time</h2>
+
+<img src="evidence/1.png" />
 
 <h2>Please keep in mind, as a MERN stack developer I've never worked with many of these technologies before (including Hugo, GO templating, S3, etc).</h2>
 
